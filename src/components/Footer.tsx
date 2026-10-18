@@ -20,13 +20,13 @@ export const Footer: React.FC<FooterProps> = ({ onOpenPrivacy }) => {
             <div className="bg-white p-2.5 rounded-xl inline-block shadow-md">
               <img
                 src="/logo.png"
-                alt="Wildo Job Consultancy Logo"
+                alt="Willdo Job Consultancy Logo"
                 className="h-12 w-auto object-contain"
               />
             </div>
 
             <p className="text-sm text-slate-400 leading-relaxed pr-4">
-              Wildo Job Consultancy is an ethical recruitment and career advisory service based in Thamarassery, Kozhikode. Helping candidates connect with genuine employment opportunities across Northern Kerala.
+              Willdo Job Consultancy is an ethical recruitment and career advisory service based in Thamarassery, Kozhikode. Helping candidates connect with genuine employment opportunities across Northern Kerala.
             </p>
 
             <div className="pt-2">

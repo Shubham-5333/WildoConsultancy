@@ -13,7 +13,7 @@ export function getWhatsAppUrl(customMessage?: string): string {
  * Generates an inquiry link for a specific job title
  */
 export function getJobInquiryWhatsAppUrl(jobTitle: string, location: string): string {
-  const message = `Hello Wildo Job Consultancy, I am interested in applying for the position: "${jobTitle}" in ${location}. Could you please guide me on the requirements and interview process?`;
+  const message = `Hello Willdo Job Consultancy, I am interested in applying for the position: "${jobTitle}" in ${location}. Could you please guide me on the requirements and interview process?`;
   return getWhatsAppUrl(message);
 }
 
@@ -21,6 +21,6 @@ export function getJobInquiryWhatsAppUrl(jobTitle: string, location: string): st
  * Generates an inquiry link for a specific consultancy service
  */
 export function getServiceInquiryWhatsAppUrl(serviceTitle: string): string {
-  const message = `Hello Wildo Job Consultancy, I would like to get more information regarding your "${serviceTitle}" service in Thamarassery.`;
+  const message = `Hello Willdo Job Consultancy, I would like to get more information regarding your "${serviceTitle}" service in Thamarassery.`;
   return getWhatsAppUrl(message);
 }

@@ -9,19 +9,19 @@ export const WhatsAppContactSection: React.FC = () => {
   const quickMessages = [
     {
       label: 'Jobs in Thamarassery',
-      text: 'Hello Wildo Job Consultancy, I am looking for job opportunities in Thamarassery. Could you please provide more information?',
+      text: 'Hello Willdo Job Consultancy, I am looking for job opportunities in Thamarassery. Could you please provide more information?',
     },
     {
       label: 'Career Guidance in Kozhikode',
-      text: 'Hello Wildo Job Consultancy, I would like to schedule a career guidance session for jobs in Kozhikode.',
+      text: 'Hello Willdo Job Consultancy, I would like to schedule a career guidance session for jobs in Kozhikode.',
     },
     {
       label: 'Accounts / Office Roles',
-      text: 'Hello Wildo Job Consultancy, I am an accounting / office administration professional looking for job vacancies in Malabar.',
+      text: 'Hello Willdo Job Consultancy, I am an accounting / office administration professional looking for job vacancies in Malabar.',
     },
     {
       label: 'Hiring Staff (For Employers)',
-      text: 'Hello Wildo Job Consultancy, we are an employer in Kozhikode looking to hire staff. Please share your recruitment assistance details.',
+      text: 'Hello Willdo Job Consultancy, we are an employer in Kozhikode looking to hire staff. Please share your recruitment assistance details.',
     },
   ];
 
@@ -43,7 +43,7 @@ export const WhatsAppContactSection: React.FC = () => {
 
           {/* Heading */}
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight">
-            Connect Instantly with Wildo Job Consultancy on WhatsApp
+            Connect Instantly with Willdo Job Consultancy on WhatsApp
           </h2>
 
           <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto leading-relaxed">

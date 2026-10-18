@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        wildo: {
+        willdo: {
           blue: {
             50: '#f0f5ff',
             100: '#e0ecfe',
@@ -28,6 +28,37 @@ export default {
             300: '#86efac',
             400: '#4ade80',
             500: '#22c55e', // WhatsApp & Logo Vibrant Green
+            600: '#16a34a',
+            700: '#15803d',
+            800: '#166534',
+            900: '#14532d',
+          },
+          accent: {
+            cyan: '#0284c7',
+            teal: '#0d9488',
+          }
+        },
+        wildo: {
+          blue: {
+            50: '#f0f5ff',
+            100: '#e0ecfe',
+            200: '#bae0fd',
+            300: '#7cc8fb',
+            400: '#36abf7',
+            500: '#0c8fe6',
+            600: '#0270c4',
+            700: '#04589f',
+            800: '#1b3b87',
+            900: '#13285c',
+            950: '#0d1a3e',
+          },
+          green: {
+            50: '#f0fdf4',
+            100: '#dcfce7',
+            200: '#bbf7d0',
+            300: '#86efac',
+            400: '#4ade80',
+            500: '#22c55e',
             600: '#16a34a',
             700: '#15803d',
             800: '#166534',

@@ -46,7 +46,7 @@ export const PrivacyModal: React.FC<PrivacyModalProps> = ({ isOpen, onClose }) =
               1. Candidate Information & WhatsApp Privacy
             </h4>
             <p>
-              When you contact Wildo Job Consultancy via WhatsApp or phone, any personal information, resumes, or contact details you share are strictly utilized for career guidance and matching you with suitable employers in Thamarassery and the Kozhikode region. We do not sell or rent your personal information to third-party marketing entities.
+              When you contact Willdo Job Consultancy via WhatsApp or phone, any personal information, resumes, or contact details you share are strictly utilized for career guidance and matching you with suitable employers in Thamarassery and the Kozhikode region. We do not sell or rent your personal information to third-party marketing entities.
             </p>
           </div>
 
@@ -56,7 +56,7 @@ export const PrivacyModal: React.FC<PrivacyModalProps> = ({ isOpen, onClose }) =
               2. Ethical Advisory & Representation
             </h4>
             <p>
-              Wildo Job Consultancy acts as an intermediary connecting candidates and employers. Employment decisions, compensation packages, and workplace rules are finalized between the hiring employer and the candidate. We strive to provide transparent and factual information about all roles presented.
+              Willdo Job Consultancy acts as an intermediary connecting candidates and employers. Employment decisions, compensation packages, and workplace rules are finalized between the hiring employer and the candidate. We strive to provide transparent and factual information about all roles presented.
             </p>
           </div>
 
@@ -74,7 +74,7 @@ export const PrivacyModal: React.FC<PrivacyModalProps> = ({ isOpen, onClose }) =
               4. Contact for Inquiries
             </h4>
             <p>
-              For questions regarding privacy practices, please contact Wildo Job Consultancy at our office in Thamarassery, Kozhikode, Kerala or via phone at +91 85903 00976.
+              For questions regarding privacy practices, please contact Willdo Job Consultancy at our office in Thamarassery, Kozhikode, Kerala or via phone at +91 85903 00976.
             </p>
           </div>
         </div>

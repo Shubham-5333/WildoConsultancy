@@ -36,14 +36,14 @@ export interface LocalSeoCluster {
 }
 
 export const COMPANY_INFO = {
-  name: "Wildo Job Consultancy",
+  name: "Willdo Job Consultancy",
   tagline: "Your Local Career Partner in Thamarassery & Kozhikode",
   phone: "+91 85903 00976",
   phoneRaw: "+918590300976",
   telLink: "tel:+918590300976",
   whatsappNumber: "918590300976",
   whatsappBaseUrl: "https://wa.me/918590300976",
-  defaultWhatsAppMessage: "Hello Wildo Job Consultancy, I am looking for job opportunities in Thamarassery. Could you please provide more information?",
+  defaultWhatsAppMessage: "Hello Willdo Job Consultancy, I am looking for job opportunities in Thamarassery. Could you please provide more information?",
   location: {
     town: "Thamarassery",
     district: "Kozhikode",
@@ -155,28 +155,28 @@ export const SEO_KEYWORD_CLUSTERS: LocalSeoCluster[] = [
     id: "cluster-1",
     keyword: "Job Consultancy in Thamarassery",
     heading: "Premier Job Consultancy in Thamarassery for Aspiring Professionals",
-    content: "Looking for a reliable Job Consultancy in Thamarassery? Wildo Job Consultancy helps job seekers explore employment opportunities and find guidance suited to their career goals. Whether you are a fresh graduate entering the employment market or an experienced professional seeking career progression, our Thamarassery office provides personalized advisory to align your qualifications with genuine regional vacancies.",
+    content: "Looking for a reliable Job Consultancy in Thamarassery? Willdo Job Consultancy helps job seekers explore employment opportunities and find guidance suited to their career goals. Whether you are a fresh graduate entering the employment market or an experienced professional seeking career progression, our Thamarassery office provides personalized advisory to align your qualifications with genuine regional vacancies.",
     badge: "Thamarassery Career Hub",
   },
   {
     id: "cluster-2",
     keyword: "Best Job Consultancy in Thamarassery",
     heading: "Trusted Career Guidance & Candidate-Focused Support",
-    content: "When searching for the Best Job Consultancy in Thamarassery, candidates prioritize responsiveness, transparent guidance, and honest vacancy information. Wildo Job Consultancy emphasizes ethical recruitment practices, ensuring applicants understand job specifications, compensation expectations, and realistic prospects before taking their next career steps.",
+    content: "When searching for the Best Job Consultancy in Thamarassery, candidates prioritize responsiveness, transparent guidance, and honest vacancy information. Willdo Job Consultancy emphasizes ethical recruitment practices, ensuring applicants understand job specifications, compensation expectations, and realistic prospects before taking their next career steps.",
     badge: "Ethical & Transparent",
   },
   {
     id: "cluster-3",
     keyword: "Job Placement Agency Thamarassery",
     heading: "Facilitating Local Career Transitions in Thamarassery",
-    content: "As a responsive Job Placement Agency Thamarassery job seekers rely upon, Wildo Job Consultancy connects applicants directly with businesses actively seeking motivated team members. We simplify the candidate submission process and provide clear feedback on profile compatibility.",
+    content: "As a responsive Job Placement Agency Thamarassery job seekers rely upon, Willdo Job Consultancy connects applicants directly with businesses actively seeking motivated team members. We simplify the candidate submission process and provide clear feedback on profile compatibility.",
     badge: "Placement Support",
   },
   {
     id: "cluster-4",
     keyword: "Recruitment Agency in Thamarassery",
     heading: "Connecting Local Businesses with Dedicated Talent",
-    content: "For regional enterprises seeking dependable staffing, partnering with a professional Recruitment Agency in Thamarassery reduces hiring turnaround times. Wildo Job Consultancy assists local enterprises in identifying candidates whose skills and cultural fit meet business requirements.",
+    content: "For regional enterprises seeking dependable staffing, partnering with a professional Recruitment Agency in Thamarassery reduces hiring turnaround times. Willdo Job Consultancy assists local enterprises in identifying candidates whose skills and cultural fit meet business requirements.",
     badge: "Employer Sourcing",
   },
   {
@@ -190,14 +190,14 @@ export const SEO_KEYWORD_CLUSTERS: LocalSeoCluster[] = [
     id: "cluster-6",
     keyword: "Employment Agency Thamarassery",
     heading: "Structured Employment Guidance for All Career Stages",
-    content: "Wildo Job Consultancy functions as an accessible Employment Agency Thamarassery residents can turn to for resume presentation tips, interview readiness, and insights into local commercial hiring trends.",
+    content: "Willdo Job Consultancy functions as an accessible Employment Agency Thamarassery residents can turn to for resume presentation tips, interview readiness, and insights into local commercial hiring trends.",
     badge: "Employment Advisory",
   },
   {
     id: "cluster-7",
     keyword: "Jobs in Thamarassery & Job Opportunities in Kozhikode",
     heading: "Discover High-Potential Jobs in Thamarassery and Kozhikode",
-    content: "Finding genuine Jobs in Thamarassery and promising Job opportunities in Kozhikode begins with having the right local connection. Wildo Job Consultancy monitors regional hiring demand across retail, administration, technical services, and sales to keep candidates informed about viable options.",
+    content: "Finding genuine Jobs in Thamarassery and promising Job opportunities in Kozhikode begins with having the right local connection. Willdo Job Consultancy monitors regional hiring demand across retail, administration, technical services, and sales to keep candidates informed about viable options.",
     badge: "Active Opportunities",
   },
 ];
@@ -205,7 +205,7 @@ export const SEO_KEYWORD_CLUSTERS: LocalSeoCluster[] = [
 export const HOW_IT_WORKS_STEPS = [
   {
     stepNumber: "01",
-    title: "Contact Wildo Job Consultancy",
+    title: "Contact Willdo Job Consultancy",
     description: "Reach out instantly through our dedicated WhatsApp button or telephone call. Tell us about your current status and what kind of position you are looking for.",
     icon: "PhoneCall",
   },
@@ -231,7 +231,7 @@ export const TESTIMONIALS_DATA: TestimonialItem[] = [
     location: "Thamarassery",
     image: "/images/testimonial-rahul.jpg",
     rating: 5,
-    comment: "Connecting with Wildo Job Consultancy over WhatsApp made my job search completely stress-free. They clearly explained the role requirements and helped me find an accounting opening right in the Thamarassery area.",
+    comment: "Connecting with Willdo Job Consultancy over WhatsApp made my job search completely stress-free. They clearly explained the role requirements and helped me find an accounting opening right in the Thamarassery area.",
     date: "Recent Candidate",
   },
   {
@@ -251,7 +251,7 @@ export const TESTIMONIALS_DATA: TestimonialItem[] = [
     location: "Kozhikode District",
     image: "/images/testimonial-mohammed.jpg",
     rating: 5,
-    comment: "Wildo Job Consultancy understands the local job market in Malabar very well. They don't make exaggerated claims—just honest, dependable coordination with genuine employers.",
+    comment: "Willdo Job Consultancy understands the local job market in Malabar very well. They don't make exaggerated claims—just honest, dependable coordination with genuine employers.",
     date: "Recent Candidate",
   },
 ];

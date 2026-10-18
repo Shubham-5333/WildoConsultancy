@@ -3,8 +3,8 @@ import { Helmet } from 'react-helmet-async';
 import { COMPANY_INFO } from '../data/consultancyData';
 
 export const SeoHelmet: React.FC = () => {
-  const pageTitle = "Wildo Job Consultancy Thamarassery | Jobs in Kozhikode";
-  const pageDescription = "Wildo Job Consultancy in Thamarassery, Kozhikode helps job seekers discover verified career opportunities, resume guidance, and recruitment support across Kerala. Contact on WhatsApp.";
+  const pageTitle = "Willdo Job Consultancy Thamarassery | Jobs in Kozhikode";
+  const pageDescription = "Willdo Job Consultancy in Thamarassery, Kozhikode helps job seekers discover verified career opportunities, resume guidance, and recruitment support across Kerala. Contact on WhatsApp.";
   const canonicalUrl = "https://wildojobconsultancy.com/";
   const imageUrl = "https://wildojobconsultancy.com/logo.png";
 

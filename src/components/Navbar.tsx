@@ -37,12 +37,12 @@ export const Navbar: React.FC = () => {
           <a
             href="#home"
             className="flex items-center gap-3 group focus:outline-none focus:ring-2 focus:ring-wildo-blue-600 rounded-lg p-1"
-            aria-label="Wildo Job Consultancy Home"
+            aria-label="Willdo Job Consultancy Home"
           >
             <div className="relative h-12 sm:h-14 w-auto flex items-center">
               <img
                 src="/logo.png"
-                alt="Wildo Job Consultancy Logo - Thamarassery, Kozhikode"
+                alt="Willdo Job Consultancy Logo - Thamarassery, Kozhikode"
                 className="h-11 sm:h-13 w-auto object-contain transition-transform duration-200 group-hover:scale-[1.02]"
               />
             </div>
@@ -75,7 +75,7 @@ export const Navbar: React.FC = () => {
             <a
               href={COMPANY_INFO.telLink}
               className="flex items-center gap-1.5 text-xs lg:text-sm font-semibold text-slate-700 hover:text-wildo-blue-800 px-3 py-2 rounded-lg hover:bg-slate-100 transition-colors"
-              title="Call Wildo Job Consultancy"
+              title="Call Willdo Job Consultancy"
             >
               <Phone className="w-4 h-4 text-wildo-blue-700" />
               <span>{COMPANY_INFO.phone}</span>
@@ -100,7 +100,7 @@ export const Navbar: React.FC = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 bg-wildo-green-600 text-white rounded-full shadow-sm hover:bg-wildo-green-700"
-              aria-label="WhatsApp Wildo Consultancy"
+              aria-label="WhatsApp Willdo Consultancy"
             >
               <MessageCircle className="w-5 h-5 fill-white" />
             </a>

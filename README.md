@@ -1,6 +1,6 @@
-# Wildo Job Consultancy - Website
+# Willdo Job Consultancy - Website
 
-A modern, fast, and SEO-optimized frontend website for **Wildo Job Consultancy**, located in **Thamarassery, Kozhikode, Kerala, India**.
+A modern, fast, and SEO-optimized frontend website for **Willdo Job Consultancy**, located in **Thamarassery, Kozhikode, Kerala, India**.
 
 Designed to help job seekers discover the consultancy through Google searches, build trust, explore career guidance and recruitment services, and contact the consultancy directly via WhatsApp.
 
@@ -8,7 +8,7 @@ Designed to help job seekers discover the consultancy through Google searches, b
 
 ## 🚀 Technology Stack
 - **Framework:** React 19 + Vite (TypeScript)
-- **Styling:** Tailwind CSS (Custom Wildo navy blue `#1b3b87`, vibrant green `#22c55e`, and cyan accents)
+- **Styling:** Tailwind CSS (Custom Willdo navy blue `#1b3b87`, vibrant green `#22c55e`, and cyan accents)
 - **Icons:** Lucide React
 - **SEO & Metadata:** React Helmet Async + Native Pre-rendered Semantic HTML
 - **Structured Data:** JSON-LD schema (`EmploymentAgency` & `LocalBusiness`)
@@ -16,7 +16,7 @@ Designed to help job seekers discover the consultancy through Google searches, b
 ---
 
 ## 🏢 Business Identity & Contact Information
-- **Company Name:** Wildo Job Consultancy
+- **Company Name:** Willdo Job Consultancy
 - **Location:** Thamarassery, Kozhikode, Kerala, India - 673573
 - **Primary Phone:** `+91 85903 00976` ([tel:+918590300976](tel:+918590300976))
 - **Official WhatsApp:** [https://wa.me/918590300976](https://wa.me/918590300976)
@@ -27,13 +27,13 @@ Designed to help job seekers discover the consultancy through Google searches, b
 ## 📑 Website Sections Implemented
 
 1. **Sticky Header & Responsive Navigation**
-   - Official Wildo brand logo preserved in original proportions and colors
+   - Official Willdo brand logo preserved in original proportions and colors
    - Navigation links: Home, About Us, Services, Job Opportunities, Testimonials, Contact
    - Direct telephone link and green WhatsApp button: *"Contact Us on WhatsApp"*
    - Accessible mobile slide-out menu
 
 2. **Hero Section**
-   - High-impact headline: *"Find the Right Job Opportunity with Wildo Job Consultancy"*
+   - High-impact headline: *"Find the Right Job Opportunity with Willdo Job Consultancy"*
    - Naturally integrated primary keyword clusters:
      - `Job Consultancy in Thamarassery`
      - `Job Consultancy in Kozhikode`
@@ -48,7 +48,7 @@ Designed to help job seekers discover the consultancy through Google searches, b
    - Support for job seekers
    - Strict transparency: No fabricated placement statistics, years, or exaggerated claims
 
-4. **About Wildo Job Consultancy**
+4. **About Willdo Job Consultancy**
    - Heading: *"Your Local Career Partner in Thamarassery"*
    - Dedicated narrative explaining candidate-first guidance, interview preparation, and employer connections across Kozhikode and Malabar
 
@@ -80,7 +80,7 @@ Designed to help job seekers discover the consultancy through Google searches, b
      - `Job opportunities in Kozhikode`
 
 8. **How It Works**
-   - Step 1: Contact Wildo Job Consultancy
+   - Step 1: Contact Willdo Job Consultancy
    - Step 2: Share career interests and relevant details
    - Step 3: Discuss suitable opportunities with the consultancy
 

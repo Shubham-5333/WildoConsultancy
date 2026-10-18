@@ -73,7 +73,7 @@ export const HowItWorksSection: React.FC = () => {
         {/* Bottom Fast Action Prompt */}
         <div className="mt-14 text-center">
           <a
-            href={getWhatsAppUrl("Hello Wildo Job Consultancy, I would like to begin Step 1 and explore career opportunities in Thamarassery.")}
+            href={getWhatsAppUrl("Hello Willdo Job Consultancy, I would like to begin Step 1 and explore career opportunities in Thamarassery.")}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2.5 px-7 py-3.5 rounded-xl font-bold text-white bg-wildo-green-600 hover:bg-wildo-green-700 shadow-whatsapp hover:shadow-lg transition-all duration-200 hover:-translate-y-0.5"

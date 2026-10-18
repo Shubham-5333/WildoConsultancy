@@ -20,7 +20,7 @@ export const LocalSeoSection: React.FC = () => {
           </h2>
 
           <p className="text-base text-slate-600 leading-relaxed">
-            Wildo Job Consultancy serves job seekers and regional business owners throughout Thamarassery, Calicut, and the broader Kozhikode district. Read our localized guide below to understand available employment channels.
+            Willdo Job Consultancy serves job seekers and regional business owners throughout Thamarassery, Calicut, and the broader Kozhikode district. Read our localized guide below to understand available employment channels.
           </p>
         </div>
 
@@ -57,7 +57,7 @@ export const LocalSeoSection: React.FC = () => {
               <div className="pt-4 mt-4 border-t border-slate-100 flex items-center justify-between">
                 <span className="text-[11px] text-slate-400 font-medium">Thamarassery &bull; Kozhikode</span>
                 <a
-                  href={getWhatsAppUrl(`Hello Wildo Job Consultancy, I am inquiring regarding "${cluster.keyword}".`)}
+                  href={getWhatsAppUrl(`Hello Willdo Job Consultancy, I am inquiring regarding "${cluster.keyword}".`)}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1 text-xs font-bold text-wildo-blue-800 hover:text-wildo-green-600 transition-colors"
@@ -79,7 +79,7 @@ export const LocalSeoSection: React.FC = () => {
                 Ethical Advisory Standards
               </h4>
               <p className="text-xs text-slate-600 leading-relaxed">
-                Wildo Job Consultancy operates with complete transparency. We connect candidates with legitimate employers and provide realistic guidance on interview processes and workplace requirements. We do not charge deceptive advance fees, make unrealistic guarantees of immediate placement, or publish unsubstantiated claims.
+                Willdo Job Consultancy operates with complete transparency. We connect candidates with legitimate employers and provide realistic guidance on interview processes and workplace requirements. We do not charge deceptive advance fees, make unrealistic guarantees of immediate placement, or publish unsubstantiated claims.
               </p>
             </div>
           </div>

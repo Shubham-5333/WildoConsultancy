@@ -30,7 +30,7 @@ export const FloatingWhatsApp: React.FC = () => {
                 <span className="absolute bottom-0 right-0 w-3 h-3 rounded-full bg-emerald-300 border-2 border-wildo-green-700" />
               </div>
               <div>
-                <h4 className="text-sm font-bold leading-tight">Wildo Job Consultancy</h4>
+                <h4 className="text-sm font-bold leading-tight">Willdo Job Consultancy</h4>
                 <p className="text-[11px] text-emerald-100 flex items-center gap-1">
                   <Sparkles className="w-3 h-3" />
                   Thamarassery &bull; Typically replies fast
@@ -50,7 +50,7 @@ export const FloatingWhatsApp: React.FC = () => {
           {/* Body */}
           <div className="p-4 bg-slate-50 space-y-3 text-xs">
             <div className="bg-white p-3 rounded-xl rounded-tl-none shadow-xs border border-slate-200/80 text-slate-700 max-w-[85%]">
-              Hello! 👋 Welcome to Wildo Job Consultancy in Thamarassery. How can we help your career today?
+              Hello! 👋 Welcome to Willdo Job Consultancy in Thamarassery. How can we help your career today?
             </div>
 
             {/* Quick choices */}
@@ -59,7 +59,7 @@ export const FloatingWhatsApp: React.FC = () => {
               {sampleQuestions.map((q, idx) => (
                 <a
                   key={idx}
-                  href={getWhatsAppUrl(`Hello Wildo Job Consultancy, ${q}`)}
+                  href={getWhatsAppUrl(`Hello Willdo Job Consultancy, ${q}`)}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block p-2 bg-white hover:bg-wildo-green-50 border border-slate-200 hover:border-wildo-green-300 rounded-lg text-slate-700 hover:text-wildo-green-800 font-medium transition-colors"
@@ -108,7 +108,7 @@ export const FloatingWhatsApp: React.FC = () => {
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="group flex items-center gap-2.5 bg-wildo-green-600 hover:bg-wildo-green-700 text-white px-4 py-3.5 rounded-full shadow-whatsapp hover:shadow-2xl transition-all duration-300 hover:scale-105 animate-whatsapp-pulse cursor-pointer"
-        aria-label="Chat on WhatsApp with Wildo Job Consultancy"
+        aria-label="Chat on WhatsApp with Willdo Job Consultancy"
       >
         <MessageCircle className="w-6 h-6 fill-white shrink-0" />
         <span className="font-bold text-xs sm:text-sm tracking-wide hidden sm:inline">

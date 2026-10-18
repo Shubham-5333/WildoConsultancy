@@ -151,7 +151,7 @@ export const ContactLocationSection: React.FC = () => {
               {/* Map Iframe showing Thamarassery, Kozhikode */}
               <div className="relative w-full h-[360px] sm:h-[420px] bg-slate-200">
                 <iframe
-                  title="Wildo Job Consultancy Thamarassery Kozhikode Location Map"
+                  title="Willdo Job Consultancy Thamarassery Kozhikode Location Map"
                   src="https://maps.google.com/maps?q=Thamarassery,%20Kozhikode,%20Kerala&t=&z=14&ie=UTF8&iwloc=&output=embed"
                   className="w-full h-full border-0"
                   loading="lazy"

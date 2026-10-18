@@ -27,7 +27,7 @@ export const Hero: React.FC = () => {
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-[52px] font-extrabold text-slate-900 tracking-tight leading-[1.15]">
               Find the Right Job Opportunity with{' '}
               <span className="text-wildo-blue-800 relative inline-block">
-                Wildo Job Consultancy
+                Willdo Job Consultancy
                 <svg className="absolute -bottom-1.5 left-0 w-full h-2 text-wildo-green-500/80" viewBox="0 0 100 12" preserveAspectRatio="none">
                   <path d="M0,0 Q50,12 100,0" stroke="currentColor" strokeWidth="3" fill="none" />
                 </svg>
@@ -105,7 +105,7 @@ export const Hero: React.FC = () => {
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-white bg-slate-100 aspect-[4/3] sm:aspect-[16/11]">
                 <img
                   src="/images/hero-consultation.jpg"
-                  alt="Career consultation at Wildo Job Consultancy in Thamarassery Kozhikode"
+                  alt="Career consultation at Willdo Job Consultancy in Thamarassery Kozhikode"
                   className="w-full h-full object-cover object-center"
                   loading="eager"
                 />

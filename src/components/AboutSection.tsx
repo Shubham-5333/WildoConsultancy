@@ -30,7 +30,7 @@ export const AboutSection: React.FC = () => {
                   </h3>
 
                   <p className="text-slate-200 text-sm sm:text-base leading-relaxed">
-                    At Wildo Job Consultancy, we believe every individual deserves clarity and genuine guidance when navigating employment opportunities. Based in Thamarassery, we maintain strong relationships with regional businesses to help candidates find sustainable positions.
+                    At Willdo Job Consultancy, we believe every individual deserves clarity and genuine guidance when navigating employment opportunities. Based in Thamarassery, we maintain strong relationships with regional businesses to help candidates find sustainable positions.
                   </p>
 
                   <div className="pt-4 border-t border-white/15 space-y-3">
@@ -52,7 +52,7 @@ export const AboutSection: React.FC = () => {
 
                   <div className="pt-2">
                     <a
-                      href={getWhatsAppUrl("Hello Wildo Job Consultancy, I would like to learn more about your career guidance process in Thamarassery.")}
+                      href={getWhatsAppUrl("Hello Willdo Job Consultancy, I would like to learn more about your career guidance process in Thamarassery.")}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2 text-xs sm:text-sm font-semibold text-wildo-green-300 hover:text-white transition-colors"
@@ -84,7 +84,7 @@ export const AboutSection: React.FC = () => {
             
             <div className="space-y-2">
               <span className="text-xs sm:text-sm font-bold uppercase tracking-wider text-wildo-blue-800 bg-wildo-blue-50 px-3.5 py-1.5 rounded-full inline-block">
-                About Wildo Job Consultancy
+                About Willdo Job Consultancy
               </span>
               <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight">
                 Your Local Career Partner in Thamarassery
@@ -92,7 +92,7 @@ export const AboutSection: React.FC = () => {
             </div>
 
             <p className="text-base sm:text-lg text-slate-600 leading-relaxed font-normal">
-              Wildo Job Consultancy is an independent recruitment and career advisory service established in{' '}
+              Willdo Job Consultancy is an independent recruitment and career advisory service established in{' '}
               <strong className="text-slate-900 font-semibold">Thamarassery, Kozhikode</strong>. We assist job seekers
               across Northern Kerala in finding suitable employment avenues that match their individual talents, qualifications,
               and aspirations.
@@ -131,7 +131,7 @@ export const AboutSection: React.FC = () => {
             {/* CTA row */}
             <div className="pt-2 flex flex-wrap items-center gap-4">
               <a
-                href={getWhatsAppUrl("Hello Wildo Job Consultancy, I would like to schedule a career guidance session.")}
+                href={getWhatsAppUrl("Hello Willdo Job Consultancy, I would like to schedule a career guidance session.")}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-5 py-3 rounded-xl font-bold text-white bg-wildo-green-600 hover:bg-wildo-green-700 shadow-whatsapp transition-all duration-200"
